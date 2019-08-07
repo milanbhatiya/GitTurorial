@@ -7,3 +7,6 @@ git pull conflict.
 This commit from feature.
 
 This commit from master branch.
+
+
+This pull request is checking that everything is good.
